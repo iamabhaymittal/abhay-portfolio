@@ -32,7 +32,7 @@
       "id": "1",
       "title": "Prompt Marketplace",
       "description": "It is an NFT marketplace where users can buy and sell prompts. Prompts are ideas or sentences that are 'novel' and can be used to generate useful content on AI generators such as GPT-3, DALLE-2, ChatGPT, Dreambooth StableDiffusion and others. Tech Stack: Solidity(Smart Contracts), Foundry, React, NextJS, Pinata Submarine ",
-      "imageSrc": "https://cdn.discordapp.com/attachments/1027941855784087615/1040654982799708252/image.png",
+      "imageSrc": "https://i.ibb.co/ByG1VFj/Screenshot-2023-01-16-at-5-51-05-PM.png",
       "url": "https://prompt-marketplace.vercel.app/"
     }
   ],
