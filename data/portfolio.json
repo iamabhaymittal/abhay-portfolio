@@ -32,33 +32,47 @@
       "id": "1",
       "title": "Prompt Marketplace",
       "description": "It is an NFT marketplace where users can buy and sell prompts. Prompts are ideas or sentences that are 'novel' and can be used to generate useful content on AI generators such as GPT-3, DALLE-2, ChatGPT, Dreambooth StableDiffusion and others. Tech Stack: Solidity(Smart Contracts), Foundry, React, NextJS, Pinata Submarine ",
-      "imageSrc": "https://i.ibb.co/ByG1VFj/Screenshot-2023-01-16-at-5-51-05-PM.png",
+      "imageSrc": "https://i.ibb.co/1Qjh6Lk/Screenshot-2023-01-16-at-6-05-03-PM.png",
       "url": "https://prompt-marketplace.vercel.app/"
+    },
+    {
+      "id": "2",
+      "title": "Voice based COVID-19 Diagnosis",
+      "description": "Developed an end-to-end web-app for COVID-19 detection and diagnosis. The app uses machine learning, neural networks and sound processing to distinguish positive and negative samples.Tech Stack – Flask, Python, HTML, CSS, Keras, Tensorflow ",
+      "imageSrc": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202007/COVID-Vocal-Biomarkers-MIT-Lincoln-Laboratory-00_2.png?itok=AhPlwsec",
+      "url": "https://coviddiagnosis-app.herokuapp.com/"
+    },
+    {
+      "id": "3",
+      "title": "Stable Diffusion Web App",
+      "description": "Developed a web-app in react for Stable Diffusion 1.5. Used the huggingface Inference Endpoint for Backend/API. ",
+      "imageSrc": "https://i.ibb.co/GCh890T/Screenshot-2023-01-16-at-7-08-18-PM.png",
+      "url": "https://stable-diffusion-rho.vercel.app/"
     }
   ],
   "services": [
     {
       "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      "title": "Front-end Development",
+      "description": "I will help you build pixel-perfect client-side web applications using modern frameworks React, Svelte, Next.jS "
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "title": "Smart Contracts",
+      "description": "Revolutionize your business with smart contract development services for the Ethereum blockchain. With deep expertise in Solidity, I help enterprises automate their operations, streamline workflow, and reduce the cost of key processes."
     },
     {
       "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      "title": "Generative AI",
+      "description": "Deploy powerful ML apps. I will help you build pipelines, fine-tune models, and help you build your own generative AI web-app"
     },
     {
       "id": "4",
       "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "description": "Combining creative design and technical skills to build striking 3D visualisations in blender that bring your project to life."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
