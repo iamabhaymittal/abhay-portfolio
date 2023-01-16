@@ -74,18 +74,6 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showBlog && (
                     <Button onClick={() => router.push("/blog")}>Blog</Button>
                   )}
-                  {showResume && (
-                    <Button
-                      onClick={() =>
-                        window.open(
-                          "https://drive.google.com/file/d/1EzCsmkazJuWsRey05py2MUiKvD8q7qMc/view?usp=sharing"
-                        )
-                      }
-                    >
-                      Resume
-                    </Button>
-                  )}
-
                   <Button
                     onClick={() =>
                       window.open("mailto:iamabhaymittal@gmail.com")

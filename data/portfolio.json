@@ -15,6 +15,11 @@
       "link": "https://github.com/iamabhaymittal"
     },
     {
+      "id": "6",
+      "title": "Resume",
+      "link": "https://drive.google.com/file/d/1EzCsmkazJuWsRey05py2MUiKvD8q7qMc/view?usp=sharing"
+    },
+    {
       "id": "2",
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/abhay-mittal-845946161/"
@@ -28,14 +33,14 @@
       "id": "3",
       "title": "Stable Diffusion Web App",
       "description": "Developed a web-app in react for Stable Diffusion 1.5. Used the huggingface Inference Endpoint for Backend/API. ",
-      "imageSrc": "https://www.linkpicture.com/q/Screenshot-2023-01-16-at-7.08.18-PM.png",
+      "imageSrc": "https://i.imgur.com/nAV3Coq.png",
       "url": "https://stable-diffusion-rho.vercel.app/"
     },
     {
       "id": "1",
       "title": "Prompt Marketplace",
       "description": "It is an NFT marketplace for prompts. Prompts are sentences that are 'novel' and can be used to generate useful content with AI generators. ",
-      "imageSrc": "https://i.ibb.co/4gbGNDT/Screenshot-2023-01-16-21-40-56-21-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "imageSrc": "https://i.imgur.com/7fDrOpg.png",
       "url": ""
     },
     {
