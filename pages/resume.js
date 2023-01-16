@@ -39,7 +39,7 @@ const Resume = () => {
       >
         <Header isBlog />
         {mount && (
-          <div className="mt-10 w-full flex flex-col items-center text-slate-800">
+          <div className="mt-10 w-full flex flex-col items-center">
             <div
               className={`w-full ${
                 mount && theme.theme === "dark" ? "bg-slate-800" : "bg-gray-50"
