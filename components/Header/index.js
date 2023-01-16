@@ -77,7 +77,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("mailto:iamabhaymittal@gmail.com")
+                        window.open(
+                          "https://drive.google.com/file/d/1EzCsmkazJuWsRey05py2MUiKvD8q7qMc/view?usp=sharing"
+                        )
                       }
                     >
                       Resume
@@ -142,7 +144,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() =>
+                  window.open(
+                    "https://drive.google.com/file/d/1EzCsmkazJuWsRey05py2MUiKvD8q7qMc/view?usp=sharing"
+                  )
+                }
                 classes="first:ml-1"
               >
                 Resume
