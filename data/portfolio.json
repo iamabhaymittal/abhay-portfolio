@@ -42,7 +42,7 @@
       "id": "3",
       "title": "Stable Diffusion Web App",
       "description": "Developed a web-app in react for Stable Diffusion 1.5. Used the huggingface Inference Endpoint for Backend/API. ",
-      "imageSrc": "https://i.ibb.co/GCh890T/Screenshot-2023-01-16-at-7-08-18-PM.png",
+      "imageSrc": "https://www.linkpicture.com/q/Screenshot-2023-01-16-at-7.08.18-PM.png",
       "url": "https://stable-diffusion-rho.vercel.app/"
     }
   ],
@@ -68,7 +68,7 @@
       "description": "Combining creative design and technical skills to build striking 3D visualisations in blender that bring your project to life."
     }
   ],
-  "aboutpara": "I am a freelance software engineer who loves building and breaking things! \n\nPreviously: fullstack dev @ nice.com",
+  "aboutpara": "I am a full-stack engineer passionate about building things. In my free time, I enjoy 🥊 boxing , cycling, and playing chess. I am dedicated to keeping fit🏋️ and value the importance of self-care. I enjoy challenging myself in all facets of life, aiming to continuously better myself. ",
   "resume": {
     "tagline": "👋  I'm a full-stack engineer.",
     "description": "I have delivered world-class user experiences to thousands of people. Well-versed with React, Javascript, and most of the Web frameworks.",
