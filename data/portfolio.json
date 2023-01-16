@@ -3,9 +3,9 @@
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Abhay Mittal - curious",
   "headerTaglineThree": "full stack developer",
-  "headerTaglineFour": " based in Pune, India.",
-  "showCursor": true,
-  "showBlog": true,
+  "headerTaglineFour": " based in India.",
+  "showCursor": false,
+  "showBlog": false,
   "darkMode": true,
   "showResume": true,
   "socials": [
@@ -19,11 +19,7 @@
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/abhay-mittal-845946161/"
     },
-    {
-      "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/aboiweb3"
-    },
+    { "id": "3", "title": "Twitter", "link": "https://twitter.com/aboiweb3" },
     { "id": "4", "title": "Blog", "link": "https://aboi.hashnode.dev/" },
     { "id": "5", "title": "Email", "link": "mailto:iamabhaymittal@gmail.com" }
   ],
@@ -59,7 +55,7 @@
     {
       "id": "2",
       "title": "Smart Contracts",
-      "description": "Revolutionize your business with smart contract development services for the Ethereum blockchain. With deep expertise in Solidity, I help enterprises automate their operations, streamline workflow, and reduce the cost of key processes."
+      "description": "With deep expertise in Solidity, revolutionize your business with smart contract development services for the Ethereum blockchain. "
     },
     {
       "id": "3",
@@ -72,33 +68,47 @@
       "description": "Combining creative design and technical skills to build striking 3D visualisations in blender that bring your project to life."
     }
   ],
-  "aboutpara": "",
+  "aboutpara": "I am a freelance software engineer who loves building and breaking things! \n\nPreviously: fullstack dev @ nice.com",
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "tagline": "👋  I'm a full-stack engineer.",
+    "description": "I have delivered world-class user experiences to thousands of people. Well-versed with React, Javascript, and most of the Web frameworks.",
     "experiences": [
       {
         "id": "1",
-        "dates": "March 2022 - Present",
+        "dates": " November 2022 - Present",
         "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Bullet One, Bullet Two"
+        "position": "Freelance Software Engineer",
+        "bullets": "Built the client application for Stable diffusion from scratch with features such as TOS Login Authentication Premium mode etc"
+      },
+      {
+        "id": "2",
+        "dates": "July 2021 - November 2022 ",
+        "type": "Full Time",
+        "position": "Full-stack Engineer at nice.com",
+        "bullets": "Primarily focused on the product: Satmetrix – A feedback management enterprise software.,  Wrote several modern theme pages in React as part of a new feature(Web Intercept) and Introduced a new microservice to an existing monolithic architecture , Built CI/CD pipelines in Jenkins and used the Robot Framework to create and maintain automation scripts."
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "July 2020 - March 2022",
+        "dates": "July 2020 - March 2021",
         "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+        "position": "Research Intern at Center for Police Research",
+        "bullets": "Worked on the project: Automatic License Plate Recognition System"
       }
     ],
     "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      "universityName": "University of Pune",
+      "universityDate": "2017-2021",
+      "universityPara": "B.E (IT Engineering) 2017-2021 CGPA: 8.66 Elective Courses taken: Business Analytics and Intelligence, Soft Computing, Internet and Web Programming, Social Media Analytics"
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python",
+      "Tailwind",
+      "Solidity"
+    ],
+    "frameworks": ["React", "Svelte", "Javascript"],
+    "others": ["Figma", "AWS"]
   }
 }
