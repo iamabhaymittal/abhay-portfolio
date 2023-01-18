@@ -1,12 +1,12 @@
 {
   "name": "Abhay Mittal",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Abhay Mittal - curious",
+  "headerTaglineTwo": "I'm Abhay Mittal - a curious",
   "headerTaglineThree": "full stack developer",
   "headerTaglineFour": "based in India.",
   "showCursor": false,
   "showBlog": false,
-  "darkMode": true,
+  "darkMode": false,
   "showResume": true,
   "socials": [
     {
