@@ -18,6 +18,7 @@ export default function Home() {
   // Ref
   const workRef = useRef();
   const aboutRef = useRef();
+  const contactRef = useRef();
   const textOne = useRef();
   const textTwo = useRef();
   const textThree = useRef();
@@ -35,6 +36,14 @@ export default function Home() {
   const handleAboutScroll = () => {
     window.scrollTo({
       top: aboutRef.current.offsetTop,
+      left: 0,
+      behavior: "smooth",
+    });
+  };
+
+  const handleContactScroll = () => {
+    window.scrollTo({
+      top: document.body.scrollHeight,
       left: 0,
       behavior: "smooth",
     });
@@ -62,6 +71,7 @@ export default function Home() {
         <Header
           handleWorkScroll={handleWorkScroll}
           handleAboutScroll={handleAboutScroll}
+          handleContactScroll={handleContactScroll}
         />
         <div className="laptop:mt-20 mt-10">
           <div className="mt-5">
@@ -131,8 +141,12 @@ export default function Home() {
         )}
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
           <h1 className="tablet:m-10 text-2xl text-bold">About.</h1>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5 whitespace-pre-line  ">
             {data.aboutpara}
+
+            <a href="mailto:iamabhaymittal@gmail.com">
+              Interested to work with me? <u>Get in touch</u>
+            </a>
           </p>
         </div>
         <Footer />
