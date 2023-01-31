@@ -1,1 +1,98 @@
-{"name":"Abhay Mittal","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Abhay Mittal - a ","headerTaglineThree":"full stack developer","headerTaglineFour":"based in India.","showCursor":false,"showBlog":false,"darkMode":false,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/iamabhaymittal"},{"id":"6","title":"Resume","link":"https://drive.google.com/file/d/1EzCsmkazJuWsRey05py2MUiKvD8q7qMc/view?usp=sharing"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/abhay-mittal-845946161/"},{"id":"3","title":"Twitter","link":"https://twitter.com/aboiweb3"},{"id":"4","title":"Blog","link":"https://aboi.hashnode.dev/"},{"id":"5","title":"Email","link":"mailto:iamabhaymittal@gmail.com"}],"projects":[{"id":"3","title":"Stable Diffusion Web App","description":"Developed a web-app in react for Stable Diffusion 1.5. Used the huggingface Inference Endpoint for Backend/API. ","imageSrc":"https://i.imgur.com/nAV3Coq.png","url":"https://stable-diffusion-rho.vercel.app/"},{"id":"1","title":"Prompt Marketplace","description":"It is an NFT marketplace for prompts. Prompts are sentences that are 'novel' and can be used to generate useful content with AI generators. ","imageSrc":"https://i.imgur.com/7fDrOpg.png","url":"https://github.com/iamabhaymittal"},{"id":"2","title":"Voice based COVID-19 Diagnosis","description":"A web-app for COVID-19 diagnosis. The app uses neural networks and sound processing to distinguish positive and negative cough samples. ","imageSrc":"https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202007/COVID-Vocal-Biomarkers-MIT-Lincoln-Laboratory-00_2.png?itok=AhPlwsec","url":"https://github.com/iamabhaymittal"}],"services":[],"aboutpara":"My name is Abhay and I am a 23-year-old who loves problem-solving. I am an Engineer who graduated in 2021 with a specialization in Computers / Software. Ever since I got my first computer as a child, I was always curious about it and I just went down the rabbit hole of coding😛. \n\nAfter my graduation in 2021, I joined a company called nice.com, which has several products in cloud and feedback management. There my role was pretty diverse and I got to work as a full-stack dev where I built everything from front-end pages to backend and APIs, DevOps pipelines and even wrote automation scripts. 🧑‍💻\n\nIn my free time, I enjoy staying active and healthy through activities such as gym, fitness, boxing, chess, and cycling. I believe that staying fit allows me to bring my best self to my work as a developer and in all aspects of my life.🏋️\n\n","resume":{"tagline":"👋  I'm a full-stack engineer.","description":"I have delivered world-class user experiences to thousands of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":" November 2022 - Present","type":"Full Time","position":"Freelance Software Engineer","bullets":"Built the client application for Stable diffusion from scratch with features such as TOS Login Authentication Premium mode etc"},{"id":"2","dates":"July 2021 - November 2022 ","type":"Full Time","position":"Full-stack Engineer at nice.com","bullets":"Primarily focused on the product: Satmetrix – A feedback management enterprise software.,  Wrote several modern theme pages in React as part of a new feature(Web Intercept) and Introduced a new microservice to an existing monolithic architecture , Built CI/CD pipelines in Jenkins and used the Robot Framework to create and maintain automation scripts."},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2021","type":"Full Time","position":"Research Intern at Center for Police Research","bullets":"Worked on the project: Automatic License Plate Recognition System"}],"education":{"universityName":"University of Pune","universityDate":"2017-2021","universityPara":"B.E (IT Engineering) 2017-2021 CGPA: 8.66 Elective Courses taken: Business Analytics and Intelligence, Soft Computing, Internet and Web Programming, Social Media Analytics"},"languages":["Javascript","HTML5","CSS","Python","Tailwind","Solidity"],"frameworks":["React","Svelte","Javascript"],"others":["Figma","AWS"]}}
+{
+  "name": "Abhay Mittal",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Abhay Mittal - a ",
+  "headerTaglineThree": "full stack developer",
+  "headerTaglineFour": "based in India.",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": false,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/iamabhaymittal"
+    },
+    {
+      "id": "6",
+      "title": "Resume",
+      "link": "https://drive.google.com/file/d/1EzCsmkazJuWsRey05py2MUiKvD8q7qMc/view?usp=sharing"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/abhay-mittal-845946161/"
+    },
+    { "id": "3", "title": "Twitter", "link": "https://twitter.com/aboiweb3" },
+    { "id": "4", "title": "Blog", "link": "https://aboi.hashnode.dev/" },
+    { "id": "5", "title": "Email", "link": "mailto:iamabhaymittal@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "3",
+      "title": "Stable Diffusion Web App",
+      "description": "Developed a web-app in react for Stable Diffusion 1.5. Used the huggingface Inference Endpoint for Backend/API. ",
+      "imageSrc": "https://i.ibb.co/bbNSCh5/Screenshot-2023-01-31-at-1-14-00-PM.png",
+      "url": "https://stable-diffusion-anime-55fc.vercel.app/"
+    },
+    {
+      "id": "1",
+      "title": "Prompt Marketplace",
+      "description": "It is an NFT marketplace for prompts. Prompts are sentences that are 'novel' and can be used to generate useful content with AI generators. ",
+      "imageSrc": "https://i.imgur.com/7fDrOpg.png",
+      "url": "https://github.com/iamabhaymittal"
+    },
+    {
+      "id": "2",
+      "title": "Voice based COVID-19 Diagnosis",
+      "description": "A web-app for COVID-19 diagnosis. The app uses neural networks and sound processing to distinguish positive and negative cough samples. ",
+      "imageSrc": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202007/COVID-Vocal-Biomarkers-MIT-Lincoln-Laboratory-00_2.png?itok=AhPlwsec",
+      "url": "https://github.com/iamabhaymittal"
+    }
+  ],
+  "services": [],
+  "aboutpara": "My name is Abhay and I am a 23-year-old who loves problem-solving. I am an Engineer who graduated in 2021 with a specialization in Computers / Software. Ever since I got my first computer as a child, I was always curious about it and I just went down the rabbit hole of coding😛. \n\nAfter my graduation in 2021, I joined a company called nice.com, which has several products in cloud and feedback management. There my role was pretty diverse and I got to work as a full-stack dev where I built everything from front-end pages to backend and APIs, DevOps pipelines and even wrote automation scripts. 🧑‍💻\n\nIn my free time, I enjoy staying active and healthy through activities such as gym, fitness, boxing, chess, and cycling. I believe that staying fit allows me to bring my best self to my work as a developer and in all aspects of my life.🏋️\n\n",
+  "resume": {
+    "tagline": "👋  I'm a full-stack engineer.",
+    "description": "I have delivered world-class user experiences to thousands of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": " November 2022 - Present",
+        "type": "Full Time",
+        "position": "Freelance Software Engineer",
+        "bullets": "Built the client application for Stable diffusion from scratch with features such as TOS Login Authentication Premium mode etc"
+      },
+      {
+        "id": "2",
+        "dates": "July 2021 - November 2022 ",
+        "type": "Full Time",
+        "position": "Full-stack Engineer at nice.com",
+        "bullets": "Primarily focused on the product: Satmetrix – A feedback management enterprise software.,  Wrote several modern theme pages in React as part of a new feature(Web Intercept) and Introduced a new microservice to an existing monolithic architecture , Built CI/CD pipelines in Jenkins and used the Robot Framework to create and maintain automation scripts."
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2021",
+        "type": "Full Time",
+        "position": "Research Intern at Center for Police Research",
+        "bullets": "Worked on the project: Automatic License Plate Recognition System"
+      }
+    ],
+    "education": {
+      "universityName": "University of Pune",
+      "universityDate": "2017-2021",
+      "universityPara": "B.E (IT Engineering) 2017-2021 CGPA: 8.66 Elective Courses taken: Business Analytics and Intelligence, Soft Computing, Internet and Web Programming, Social Media Analytics"
+    },
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python",
+      "Tailwind",
+      "Solidity"
+    ],
+    "frameworks": ["React", "Svelte", "Javascript"],
+    "others": ["Figma", "AWS"]
+  }
+}
