@@ -24,7 +24,11 @@
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/abhay-mittal-845946161/"
     },
-    { "id": "3", "title": "Twitter", "link": "https://twitter.com/aboiweb3" },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/AbhayM1ttal"
+    },
     { "id": "4", "title": "Blog", "link": "https://aboi.hashnode.dev/" },
     { "id": "5", "title": "Email", "link": "mailto:iamabhaymittal@gmail.com" }
   ],
