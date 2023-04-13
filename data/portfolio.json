@@ -1,9 +1,8 @@
 {
   "name": "Abhay Mittal",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Abhay Mittal - a ",
-  "headerTaglineThree": "full stack developer",
-  "headerTaglineFour": "based in India.",
+  "headerTaglineTwo": "I'm Abhay Mittal -",
+  "headerTaglineThree": [ "a full-stack developer!" , "a front-end specialist", "a machine learning enthusiast","an amateur boxer 🥊 :P", "not a robot 🤖"],
   "showCursor": false,
   "showBlog": false,
   "darkMode": false,

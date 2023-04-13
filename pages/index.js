@@ -10,6 +10,7 @@ import Head from "next/head";
 import Button from "../components/Button";
 import Link from "next/link";
 import Cursor from "../components/Cursor";
+import Typewriter from "typewriter-effect";
 
 // Local Data
 import data from "../data/portfolio.json";
@@ -89,15 +90,11 @@ export default function Home() {
             </h1>
             <h1
               ref={textThree}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
+              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5 text-yellow-500"
             >
-              {data.headerTaglineThree}
-            </h1>
-            <h1
-              ref={textFour}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
-            >
-              {data.headerTaglineFour}
+              <Typewriter options={{
+                strings:[...data.headerTaglineThree], autoStart: true, loop: true, deleteSpeed: 50
+              }} />
             </h1>
           </div>
 
