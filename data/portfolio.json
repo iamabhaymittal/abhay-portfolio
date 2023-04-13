@@ -34,6 +34,12 @@
   ],
   "projects": [
     {
+      "id": "4",
+      "title": "Metapass Auction Site",
+      "description": "Built the front-end for Metapass Auction Site. Used React, and TailwindCSS. ",
+      "imageSrc": "https://i.ibb.co/LxBVRv7/Screenshot-2023-04-13-at-5-44-53-PM.png",
+      "url": "https://pass-auction-supernormal.vercel.app/"
+    },{
       "id": "3",
       "title": "Stable Diffusion Web App",
       "description": "Developed a web-app in react for Stable Diffusion 1.5. Used the huggingface Inference Endpoint for Backend/API. ",
