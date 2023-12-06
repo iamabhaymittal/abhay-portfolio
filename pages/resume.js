@@ -6,7 +6,7 @@ function ResumeRedirect() {
 
   useEffect(() => {
     router.push(
-      "https://drive.google.com/file/d/1QpYRyySyk6Bfh9ucfOQQvd6DNKNDygMi/view?usp=sharing"
+      "https://drive.google.com/file/d/1C2lHKeidljJBg__2sDjeTHF2nCkzK266/view?usp=sharing"
     );
   }, []);
 
