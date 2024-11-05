@@ -63,6 +63,12 @@ export default function Home() {
       {data.showCursor && <Cursor />}
       <Head>
         <title>{data.name}</title>
+        <script
+	src="https://script.refix.ai/script.min.js"
+	type="text/javascript"
+	data-refix-token="39513ead-ee18-40d1-abd8-801df9f70e93"
+	defer
+></script>
       </Head>
 
       <div className="gradient-circle"></div>
